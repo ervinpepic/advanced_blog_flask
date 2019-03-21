@@ -99,7 +99,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-Pipfile
-Pipfile.lock
+Pipfile/
+Pipfile.lock/
 # mypy
 .mypy_cache/
